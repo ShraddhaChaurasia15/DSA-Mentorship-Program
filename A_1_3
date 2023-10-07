@@ -1,4 +1,4 @@
- Is a number prime
+// Is a number prime
 #include <iostream>
 using namespace std;
 
