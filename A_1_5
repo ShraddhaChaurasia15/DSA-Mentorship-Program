@@ -1,4 +1,4 @@
-Count the digits
+//Count the digits
 #include<iostream>
 
 using namespace std;
