@@ -1,4 +1,4 @@
-Grade system
+//Grade system
 #include <iostream>
 using namespace std;
 
